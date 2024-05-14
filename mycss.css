@@ -1,0 +1,324 @@
+.top .topmain {
+	height: 38px;
+	width: 931px;
+	margin: auto;
+}
+.top .topmain h1 {
+	font-size: 12px;
+	width: 78px;
+	height: 38px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+.top .topmain h1 a {
+	display: block;
+	height: 38px;
+	width: 78px;
+	background-image: url(file:///C|/Users/31937/Desktop/%E8%B0%A2%E6%87%BF%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/newlogin.jpg);
+	text-indent: -9999px;
+}
+.top .topmain ul {
+	margin: 0px;
+	height: 38px;
+	list-style-type: none;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	float: left;
+}
+.top .topmain li {
+	line-height: 38px;
+	display: inline;
+}
+.top .topmain li a {
+	color: #333333;
+	padding-right: 3px;
+	padding-left: 3px;
+	text-decoration: none;
+}
+.top .topmain li a£ºhover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.top .topmain img {
+	padding-top: 8px;
+	float: left;
+}
+.top .topmain form {
+	width: 320px;
+	float: right;
+	margin: 0px;
+	height: 30px;
+	padding-top: 8px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.top .topmain form .text {
+	height: 16px;
+	width: 100px;
+	color: #999999;
+	border: 1px solid #666666;
+}
+.top .topmain form .anniu {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url(file:///C|/Users/31937/Desktop/%E8%B0%A2%E6%87%BF%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/button_bg.gif);
+	width: 47px;
+	height: 18px;
+	background-repeat: no-repeat;
+}
+.top {
+	background-image: url(file:///C|/Users/31937/Desktop/%E8%B0%A2%E6%87%BF%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/top_bg.jpg);
+	height: 38px;
+	width: auto;
+}
+body {
+	font-size: 12px;
+}
+.header {
+	background-image: url(../images/header_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 223px;
+}
+.header .headmain .a1 {
+	float: left;
+	height: 18px;
+	width: 100px;
+	display: block;
+	margin-left: 33px;
+	text-indent: -9999px;
+	margin-top: 202px;
+}
+.header .headmain .a2 {
+	height: 18px;
+	margin-top: 202px;
+	margin-left: 15px;
+	width: 67px;
+	text-indent: -9999px;
+	display: block;
+	float: left;
+}
+.header .headmain {
+	height: 223px;
+	width: 931px;
+	margin: auto;
+}
+.nav {
+	background-image: url(../images/nav_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 107px;
+}
+.zhu .up .upmin .domghua .dhmain {
+	background-image: url(../images/mainbg.jpg);
+	height: 301px;
+	padding-left: 11px;
+}
+
+
+
+
+
+.nav .navmain {
+	margin: auto;
+	height: 107px;
+	width: 931px;
+	color: #FFC;
+}
+
+
+.nav .navmain ul {
+	margin: 0px;
+	padding: 0px;
+}
+.nav .navmain li {
+	display: inline;
+}
+
+.nav .navmain ul.u1 {
+	font-size: 14px;
+	color: #FC0;
+	padding-top: 25px;
+	padding-bottom: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+.nav .navmain .u1 a {
+	color: #FC0;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.nav .navmain .u1 a:hover {
+	color: #FC0;
+	text-decoration: underline;
+}
+.nav .navmain .u1 .red {
+	color: #FF0000;
+	text-decoration: none;
+}
+.nav .navmain .u1 .red:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+
+
+
+.nav .navmain ul.u2 {
+	text-indent: 25px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.nav .navmain .u2 a {
+	color: #FFC;
+	text-decoration: none;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.nav .navmain .u2 a:hover {
+	color: #FFC;
+	text-decoration: underline;
+}
+.zhu {
+	height: 1035px;
+	background-image: url(file:///C|/Users/31937/Desktop/%E8%B0%A2%E6%87%BF%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/main_bg.jpg);
+	background-repeat: repeat;
+	background-position: center;
+}
+.zhu .up {
+	background-image: url(file:///C|/Users/31937/Desktop/%E8%B0%A2%E6%87%BF%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/up_bg.jpg);
+	background-position: center top;
+	height: 357px;
+	background-repeat: no-repeat;
+}
+.zhu .up .upmin {
+	margin: auto;
+	height: 357px;
+	width: 931px;
+}
+.zhu .up .upmin .news {
+	background-color: #00FF66;
+	float: left;
+	height: 349px;
+	width: 305px;
+}
+.zhu .up .upmin .domghua {
+	float: left;
+	height: 349px;
+	width: 305px;
+	margin-left: 8px;
+	background-image: url(../images/mainbottom.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-color: #C30;
+}
+.zhu .up .upmin .domghua h1 {
+	height: 33px;
+	background-image: url(../images/animh1.jpg);
+	font-size: 12px;
+	text-indent: -9999px;
+	margin: 0px;
+	padding: 0px;
+}
+.zhu .up .upmin .domghua dl {
+	float: left;
+	width: 143px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin: 0px;
+}
+.zhu .up .upmin .domghua img {
+	border: 2px solid #333;
+}
+.zhu .up .upmin .domghua dd {
+	line-height: 185%;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	text-align: center;
+}
+.zhu .up .upmin .domghua ul {
+	list-style-type: none;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	float: left;
+	width: 281px;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #333;
+	color: #362a00;
+}
+.zhu .up .upmin .domghua li {
+	line-height: 22px;
+	height: 22px;
+}
+.zhu .up .upmin .domghua em {
+	float: right;
+	font-style: normal;
+}
+
+.zhu .up .upmin .manhua {
+	float: right;
+	height: 349px;
+	width: 305px;
+	background-color: #00CCFF;
+}
+.zhu .down {
+	background-image: url(file:///C|/Users/31937/Desktop/%E8%B0%A2%E6%87%BF%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/main_down.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 678px;
+}
+.zhu .down .downmain {
+	margin: auto;
+	height: 678px;
+	width: 931px;
+}
+.zhu .down .downmain .wall {
+	float: left;
+	height: 234px;
+	width: 618px;
+	background-color: #999966;
+}
+.zhu .down .downmain .tea {
+	margin-left: 8px;
+	background-color: #FF9933;
+	height: 234px;
+	width: 305px;
+	float: left;
+}
+.zhu .down .downmain .sound {
+	float: left;
+	height: 234px;
+	width: 305px;
+	margin-top: 8px;
+	margin-left: 8px;
+	background-color: #0066CC;
+}
+.zhu .down .downmain .cosplay {
+	float: left;
+	height: 234px;
+	width: 618px;
+	background-color: #CC3333;
+	margin-top: 8px;
+}
+.zhu .down .downmain .games {
+}
+.zhu .down .downmain .human {
+}
